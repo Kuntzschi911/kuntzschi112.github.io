@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@coreui/coreui, @fontsource/source-sans-3, apexcharts, bootstrap-icons, jsvectormap}" />
+  </component>
+</project>
